@@ -1,0 +1,1 @@
+{"project":"TEST_YOUTUBE_MODULE","max_height":null,"output":{"height":1080,"fps":30},"sources":[{"id":"6AvoHnZx0Oo","url":"https://www.youtube.com/watch?v=6AvoHnZx0Oo","authorized":true,"authorization_note":"Explicit user request for this test","credit":"Veloz Redes"}],"scenes":[{"id":"S001","source":"6AvoHnZx0Oo","start":30,"duration":8,"use_source_audio":false}]}
