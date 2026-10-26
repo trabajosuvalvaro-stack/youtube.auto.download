@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+media_cache/
+*.mp4
+*.mkv
+*.webm
+*.part
+*.info.json
+*cookies*
+.env*
+evidence/
